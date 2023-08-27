@@ -13,7 +13,7 @@ The "bimmuda_dataset" directory contains all MIDIs, scores, and lyrics files. Th
 
     4. A .txt file containing the song's lyrics, if there are any (see "List of Top Singles with Non-Vocal Main Melodies")
        
-The "metadata" directory contains three .csv files of metadata:
+The "metadata" directory contains two .csv files of metadata:
 
     1. bimmuda_per_song_metadata.csv contains the per-song metadata 
     2. bimmuda_per_melody_metadata.csv contains the per-melody metadata
