@@ -18,6 +18,9 @@ The "metadata" directory contains two .csv files of metadata:
     1. bimmuda_per_song_metadata.csv contains the per-song metadata 
     2. bimmuda_per_melody_metadata.csv contains the per-melody metadata
 
+The "source_midis" directory contains files related to the pre-existing MIDI files used in the creation of the dataset.
+
+Finally, the "resources" directory contains a document describing the details of the BiMMuDa transcription strategy.
 
 # List of Top Singles with No Main Melody
 
