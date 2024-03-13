@@ -50,4 +50,7 @@ The main melodies of the following top singles are carried by instruments rather
     - "Love's Theme" by Love Unlimited Orchestra (1974_03)
     - "Harlem Shake" by Baauer (2013_04)
 
+# Submitting Corrections
+
+Each song represented in the BiMMuDa has been manually transcribed, and the transcriptions have been checked multiple times by different individuals (see the transcription guide for more details). However, there may still be small mistakes in some of the transcriptions. If you find a mistake, you can email Madeline Hamilton at m.a.hamilton@qmul.ac.uk (please use the subject line "BiMMuDa Corrections"). You can also make corrections yourself and submit a pull request. 
 
