@@ -11,6 +11,8 @@ Very few of the MIDI files found met all three of these criteria. Many free MIDI
 
 Below is a list of songs in the dataset where the transcription was derived from a free MIDI file found online, either on freemidi.org. or bitmidi.com. These websites do not list the authors of these files. If you are an author of one of these MIDI files, please contact Madeline Hamilton at m.a.hamilton@qmul.ac.uk to be properly credited. 
 
+Please note that these MIDI files were heavily edited before they were included in the BiMMuDa. The files in this directory are the original, unedited versions found online. 
+
 1. All Shook Up by Elvis Presley (1957_01) (https://bitmidi.com/all-shook-up-1-mid)
 
 2. All I Have to Do is Dream by The Everly Brothers (1958_02a) (https://freemidi.org/download3-3156-all-i-have-to-do-is-dream-everly-brothers)
