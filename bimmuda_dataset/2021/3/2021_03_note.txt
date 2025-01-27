@@ -1,0 +1,2 @@
+This folder does not contain any data. The associated song is "Blinding Lights" by The Weeknd, which was also the most popular song in 2020. 
+Therefore, all of the data relating to the song is contained in 2020_03. This folder is empty to prevent duplicates in the dataset.
